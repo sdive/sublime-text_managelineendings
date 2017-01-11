@@ -1,0 +1,4 @@
+{
+	// Valid options are "all", "none"
+	"draw_line_endings": "all"
+}
